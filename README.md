@@ -1,2 +1,2 @@
-# Huffman Encoder and Decoder
+# Enocder and Decoder for .txt files
 Huffman Encoder/Decoder using C++
